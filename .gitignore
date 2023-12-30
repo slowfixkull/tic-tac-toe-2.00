@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Production build
+build/
+
+# Dependency directories
+jspm_packages/
+
+# User-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jest coverage
+coverage/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+.pnp.cjs
+yarn.lock
